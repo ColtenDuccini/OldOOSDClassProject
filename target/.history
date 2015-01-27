@@ -1,0 +1,176 @@
+run
+exit
+run
+compile
+run
+set shellPrompt := {state => ""}
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show name
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show organization
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show version
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show scala-version
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:exported-products
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:exported-products
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:source-directories
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:source-directories
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show class-directory
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+exit
+run
+compile
+compile~
+~compile
+set shellPrompt := {state => ""}
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show name
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show organization
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show version
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show scala-version
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:exported-products
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:exported-products
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:source-directories
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:source-directories
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show class-directory
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+exit
+run
+set shellPrompt := {state => ""}
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show name
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show organization
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show version
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show scala-version
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:exported-products
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:unmanaged-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:managed-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:internal-dependency-classpath
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show runtime:exported-products
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show compile:source-directories
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show test:source-directories
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+show class-directory
+eval "%" + "%" + "E" + "N" + "S" + "I" + "M" + "E" + "%" + "%"
+exit
+~compile
+run
+compile
+run
+update
+compile
+run
+compile
+update
+compile
+c
+run
+~run
+run
+compile
+~compile
+run
+~compile
+run
+~compile
+run
+~compile
+run
+~compile
+run
+~compile
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+DateTime.now + 7.days
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
