@@ -3,6 +3,6 @@ An old school project built with Scala for the fall 2012 Object-Oriented Softwar
 
 http://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall12/project.shtml
 
-Code by Colten Duccini and Tingtingao. Some code based on sample code by Cesare Tinelli. 
+Code by Colten Duccini and Tingtin Gao. Some code based on sample code by Cesare Tinelli. 
 
 I have unfortunately forgotten the precise method used to compile the project.
